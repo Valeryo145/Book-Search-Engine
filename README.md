@@ -38,7 +38,8 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ```
 
 ## Installation
-- npm i 
+- npm i
+- npm install apollo-server-express@2.15.0 
 
 
 
