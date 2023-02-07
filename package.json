@@ -1,7 +1,7 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
@@ -20,5 +20,13 @@
     "bcrypt": "^5.1.0",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^6.9.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valeryo145/Book-Search-Engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Valeryo145/Book-Search-Engine/issues"
+  },
+  "homepage": "https://github.com/Valeryo145/Book-Search-Engine#readme"
 }
