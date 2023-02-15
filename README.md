@@ -1,8 +1,7 @@
 # Book Search Engine Starter Code
 
-
 ## Description
-. 
+This app is allowing the user to search for a book via a 'google form' search of engine. The user will be able to create a user and log in.This app originally was set up with RESTful API and got worked into a GraphQL API using an Apollo Server. 
 
 ## Acceptance Criteria
 ```md
@@ -44,13 +43,12 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 
 ## Mockup
-![]()
-
+![21-mern-homework-demo-01](https://user-images.githubusercontent.com/110436164/218948559-50ca4b0b-46e5-48ee-b48c-af2530ac5da7.gif)
 
 
 ## Deployed App
-![ screenshot]()
 
+[Heroku link](https://book-search-en222.herokuapp.com/)
 
-[Heroku link]()
+[GitHub](https://github.com/Valeryo145/Book-Search-Engine)
 
